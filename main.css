@@ -1,0 +1,10 @@
+body { 
+  background-color:blanchedalmond;
+}
+
+.img-container {
+  background-size: cover;
+  background-position: center;
+  height: 225px;
+
+}
