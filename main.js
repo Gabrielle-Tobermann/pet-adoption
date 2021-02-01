@@ -283,12 +283,24 @@ const buttonFilter = (e) => {
 };
 
 
+const deleteButton = (e) => {
+  const targetType = e.target.type;
+  const targetId = e.target.id;
+  // if element targetted when click happens is a button, delete pets item
+  if (targetType === 'button') {
+    pets.splice(targetId, 1);
+  }
+  petBuilder(pets);
+ };
+
+
 const buttonEvents = () => {
   document.querySelector('#cat').addEventListener('click', buttonFilter);
   document.querySelector('#dino').addEventListener('click', buttonFilter);
   document.querySelector('#dog').addEventListener('click', buttonFilter);
   document.querySelector('#All').addEventListener('click', buttonFilter);
-}
+  document.querySelector('#pets').addEventListener('click', deleteButton);
+};
 
 const init = () => {
   buttonEvents();
