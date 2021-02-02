@@ -1,5 +1,5 @@
 body { 
-  background-color:blanchedalmond;
+  background-color:linen;
 }
 
 .img-container {
@@ -7,4 +7,13 @@ body {
   background-position: center;
   height: 225px;
 
+}
+
+.card-text {
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+}
+
+#All-pets {
+  font-family:'Times New Roman', Times, serif;
 }
