@@ -7,10 +7,9 @@ Features: All pet cards display an image, name, type and special skill. They can
 
 User: Someone interested in adopting a cat, dog or dino. 
 
-screenshots: C:\Users\gabri\Pictures\pet-adoption-all.png
-C:\Users\gabri\Pictures\Pet-adoption-cats.png
-C:\Users\gabri\Pictures\pet-adoption-dinos.png
-C:\Users\gabri\Pictures\pet-adoption-dogs.png
+screenshots: screenshot links not working, will have to update 
+
+Figma wireframe: https://www.figma.com/file/t77LxTt3vhzqAtTSVTRP3y/Pet-Adoption?node-id=0%3A1
 
 
 Loom: https://www.loom.com/share/25f55a495f40487ea27e76b627bb1814
