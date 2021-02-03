@@ -1,0 +1,19 @@
+body { 
+  background-color:linen;
+}
+
+.img-container {
+  background-size: cover;
+  background-position: center;
+  height: 225px;
+
+}
+
+.card-text {
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+}
+
+#All-pets {
+  font-family:'Times New Roman', Times, serif;
+}
