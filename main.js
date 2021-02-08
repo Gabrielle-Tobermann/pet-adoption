@@ -103,7 +103,7 @@ const pets = [
       "Expertly quotes and recognizes dialogue from early seasons of The Simpsons.",
     type: "dog",
     imageUrl:
-      "http://1kjkdg1axrkd2g03cnboj761.wpengine.netdna-cdn.com/wp-content/uploads/2017/12/braydon-anderson-105552-e1512684107659.jpg",
+      "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/01/12201051/cute-puppy-body-image.jpg",
   },
   {
     name: "Samantha",
